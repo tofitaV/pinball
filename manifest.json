@@ -1,0 +1,63 @@
+
+{
+    "short_name": "Microsoft 3D Pinball: Space Cadet",
+    "name": "Microsoft 3D Pinball: Space Cadet | DOS.Zone",
+    "description": "Install Microsoft 3D Pinball: Space Cadet",
+    "icons": [
+        {
+            "src": "/microsoft-3d-pinball-space-cadet/logo256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "/microsoft-3d-pinball-space-cadet/logo192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/microsoft-3d-pinball-space-cadet/logo96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        }
+    ],
+    "start_url": "/microsoft-3d-pinball-space-cadet/index.html",
+    "scope": "/microsoft-3d-pinball-space-cadet/",
+    "display": "standalone",
+    "shortcuts": [
+        {
+            "name": "Microsoft 3D Pinball: Space Cadet",
+            "url": "/microsoft-3d-pinball-space-cadet/index.html",
+            "icons": [
+                {
+                    "src": "/microsoft-3d-pinball-space-cadet/logo256.png",
+                    "type": "image/png",
+                    "sizes": "256x256"
+                },
+                {
+                    "src": "/microsoft-3d-pinball-space-cadet/logo192.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                },
+                {
+                    "src": "/microsoft-3d-pinball-space-cadet/logo96.png",
+                    "type": "image/png",
+                    "sizes": "96x96"
+                }
+            ]
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/microsoft-3d-pinball-space-cadet/narrow.jpg",
+            "type": "image/jpeg",
+            "sizes": "540x720",
+            "form_factor": "narrow"
+        },
+        {
+            "src": "/microsoft-3d-pinball-space-cadet/wide.jpg",
+            "type": "image/jpeg",
+            "sizes": "1280x720",
+            "form_factor": "wide"
+        }
+    ]
+}
